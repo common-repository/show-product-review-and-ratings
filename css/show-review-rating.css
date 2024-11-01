@@ -1,0 +1,9 @@
+img.avatar.avatar-60.photo {
+	margin: 10px !important;
+}
+
+li.review.even.thread-even.depth-1,
+li.review.odd.alt.thread-odd.thread-alt.depth-1 {
+	list-style-type: none !important;
+}
+
